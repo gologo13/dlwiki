@@ -37,16 +37,18 @@ Wikipedia の階層構造を保持しつつページをダウンロードする�
 
 ### OPTIONS
 
->  -d, --depth LEVEL
->      descend only level directories deep.
->  -o, --out PATH
->      specify a download directory.
->  -p, --pages NUMBER
->      specify a number of pages to download for each category.
->  -s, --skip
->      skip to download existing files for preventing overwriting.
->  -h, --help
->      show this message.
+<pre>
+  -d, --depth LEVEL
+      descend only level directories deep.
+  -o, --out PATH
+      specify a download directory.
+  -p, --pages NUMBER
+      specify a number of pages to download for each category.
+  -s, --skip
+      skip to download existing files for preventing overwriting.
+  -h, --help
+      show this message.
+</pre>
 
 ## LICENSE
 
